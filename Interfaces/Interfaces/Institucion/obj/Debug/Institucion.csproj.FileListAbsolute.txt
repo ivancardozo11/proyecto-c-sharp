@@ -1,0 +1,21 @@
+C:\proyectos-cs\Institucion\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Institucion\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Institucion\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Institucion\Institucion\obj\Debug\Institucion.csprojAssemblyReference.cache
+C:\proyectos-cs\Institucion\Institucion\obj\Debug\Institucion.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Institucion\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Institucion\Institucion\obj\Debug\Institucion.pdb
+C:\proyectos-cs\Clases abstractas y métodos virtuales\Institucion\Institucion\obj\Debug\Institucion.csprojAssemblyReference.cache
+C:\proyectos-cs\Clases abstractas y métodos virtuales\Institucion\Institucion\obj\Debug\Institucion.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Clases abstractas y métodos virtuales\Institucion\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Clases abstractas y métodos virtuales\Institucion\Institucion\obj\Debug\Institucion.pdb
+C:\proyectos-cs\Clases abstractas y métodos virtuales\Institucion\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Clases abstractas y métodos virtuales\Institucion\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Clases abstractas y métodos virtuales\Institucion\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Interfaces\Interfaces\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Interfaces\Interfaces\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Interfaces\Interfaces\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Interfaces\Interfaces\Institucion\obj\Debug\Institucion.csprojAssemblyReference.cache
+C:\proyectos-cs\Interfaces\Interfaces\Institucion\obj\Debug\Institucion.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Interfaces\Interfaces\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Interfaces\Interfaces\Institucion\obj\Debug\Institucion.pdb
