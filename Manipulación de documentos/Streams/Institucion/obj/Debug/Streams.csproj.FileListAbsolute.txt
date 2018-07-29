@@ -1,0 +1,8 @@
+C:\proyectos-cs\Manipulación de documentos\Streams\Institucion\bin\Debug\files\Profesores.txt
+C:\proyectos-cs\Manipulación de documentos\Streams\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Manipulación de documentos\Streams\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Manipulación de documentos\Streams\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Manipulación de documentos\Streams\Institucion\obj\Debug\Streams.csprojAssemblyReference.cache
+C:\proyectos-cs\Manipulación de documentos\Streams\Institucion\obj\Debug\Streams.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Manipulación de documentos\Streams\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Manipulación de documentos\Streams\Institucion\obj\Debug\Institucion.pdb

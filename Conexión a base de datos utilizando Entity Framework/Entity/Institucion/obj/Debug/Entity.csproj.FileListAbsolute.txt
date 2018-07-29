@@ -1,0 +1,13 @@
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\obj\Debug\Institucion.pdb
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\bin\Debug\files\Profesores.txt
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\bin\Debug\EntityFramework.dll
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\bin\Debug\EntityFramework.SqlServer.dll
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\bin\Debug\EntityFramework.xml
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\bin\Debug\EntityFramework.SqlServer.xml
+C:\proyectos-cs\Conexión a base de datos utilizando Entity Framework\Entity\Institucion\obj\Debug\Entity.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\proyectos-cs\Estructuras\Estructuras\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Estructuras\Estructuras\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Estructuras\Estructuras\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Estructuras\Estructuras\Institucion\obj\Debug\Estructura.csprojAssemblyReference.cache
+C:\proyectos-cs\Estructuras\Estructuras\Institucion\obj\Debug\Estructura.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Estructuras\Estructuras\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Estructuras\Estructuras\Institucion\obj\Debug\Institucion.pdb

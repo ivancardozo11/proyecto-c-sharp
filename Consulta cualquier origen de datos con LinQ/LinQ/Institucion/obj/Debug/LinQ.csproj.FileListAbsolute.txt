@@ -1,0 +1,8 @@
+C:\proyectos-cs\Consulta cualquier origen de datos con LinQ\LinQ\Institucion\bin\Debug\files\Profesores.txt
+C:\proyectos-cs\Consulta cualquier origen de datos con LinQ\LinQ\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Consulta cualquier origen de datos con LinQ\LinQ\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Consulta cualquier origen de datos con LinQ\LinQ\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Consulta cualquier origen de datos con LinQ\LinQ\Institucion\obj\Debug\LinQ.csprojAssemblyReference.cache
+C:\proyectos-cs\Consulta cualquier origen de datos con LinQ\LinQ\Institucion\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Consulta cualquier origen de datos con LinQ\LinQ\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Consulta cualquier origen de datos con LinQ\LinQ\Institucion\obj\Debug\Institucion.pdb

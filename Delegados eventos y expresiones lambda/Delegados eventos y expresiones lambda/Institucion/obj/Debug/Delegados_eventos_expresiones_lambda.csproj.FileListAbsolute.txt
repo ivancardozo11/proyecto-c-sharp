@@ -1,0 +1,7 @@
+C:\proyectos-cs\Delegados eventos y expresiones lambda\Delegados eventos y expresiones lambda\Institucion\obj\Debug\Delegados_eventos_expresiones_lambda.csprojAssemblyReference.cache
+C:\proyectos-cs\Delegados eventos y expresiones lambda\Delegados eventos y expresiones lambda\Institucion\obj\Debug\Delegados_eventos_expresiones_lambda.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Delegados eventos y expresiones lambda\Delegados eventos y expresiones lambda\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Delegados eventos y expresiones lambda\Delegados eventos y expresiones lambda\Institucion\obj\Debug\Institucion.pdb
+C:\proyectos-cs\Delegados eventos y expresiones lambda\Delegados eventos y expresiones lambda\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Delegados eventos y expresiones lambda\Delegados eventos y expresiones lambda\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Delegados eventos y expresiones lambda\Delegados eventos y expresiones lambda\Institucion\bin\Debug\Institucion.pdb

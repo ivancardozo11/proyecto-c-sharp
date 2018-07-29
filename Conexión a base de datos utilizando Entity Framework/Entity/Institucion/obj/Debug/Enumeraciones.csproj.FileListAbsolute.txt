@@ -1,0 +1,6 @@
+C:\proyectos-cs\Enumeraciones\Enumeraciones\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Enumeraciones\Enumeraciones\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Enumeraciones\Enumeraciones\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Enumeraciones\Enumeraciones\Institucion\obj\Debug\Enumeraciones.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Enumeraciones\Enumeraciones\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Enumeraciones\Enumeraciones\Institucion\obj\Debug\Institucion.pdb

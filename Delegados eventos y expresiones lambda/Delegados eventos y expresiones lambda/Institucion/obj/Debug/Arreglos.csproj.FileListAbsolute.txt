@@ -1,0 +1,7 @@
+C:\proyectos-cs\Arreglos\Arreglos\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Arreglos\Arreglos\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Arreglos\Arreglos\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Arreglos\Arreglos\Institucion\obj\Debug\Arreglos.csprojAssemblyReference.cache
+C:\proyectos-cs\Arreglos\Arreglos\Institucion\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Arreglos\Arreglos\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Arreglos\Arreglos\Institucion\obj\Debug\Institucion.pdb

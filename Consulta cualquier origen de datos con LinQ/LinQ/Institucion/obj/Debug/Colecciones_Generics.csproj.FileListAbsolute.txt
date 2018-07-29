@@ -1,0 +1,6 @@
+C:\proyectos-cs\Colecciones y Generics\Colecciones y Generics\Institucion\bin\Debug\Institucion.exe.config
+C:\proyectos-cs\Colecciones y Generics\Colecciones y Generics\Institucion\bin\Debug\Institucion.exe
+C:\proyectos-cs\Colecciones y Generics\Colecciones y Generics\Institucion\bin\Debug\Institucion.pdb
+C:\proyectos-cs\Colecciones y Generics\Colecciones y Generics\Institucion\obj\Debug\Colecciones_Generics.csproj.CoreCompileInputs.cache
+C:\proyectos-cs\Colecciones y Generics\Colecciones y Generics\Institucion\obj\Debug\Institucion.exe
+C:\proyectos-cs\Colecciones y Generics\Colecciones y Generics\Institucion\obj\Debug\Institucion.pdb
